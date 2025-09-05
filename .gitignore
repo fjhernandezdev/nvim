@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+*.swp
+*.swo
+*.tmp
+
+lua/local.lua
+lua/local/*.lua
